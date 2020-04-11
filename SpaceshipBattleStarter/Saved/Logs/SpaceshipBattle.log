@@ -1,0 +1,1780 @@
+﻿Log file open, 04/10/20 20:02:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpaceshipBattle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.142426
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Engine.ini]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Engine.ini]
+[2020.04.11-03.02.06:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Engine.ini]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Engine.ini]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.11-03.02.06:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Engine.ini]
+[2020.04.11-03.02.06:748][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Engine.ini]
+[2020.04.11-03.02.06:750][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:750][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.11-03.02.06:750][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.11-03.02.06:750][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:750][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.11-03.02.06:750][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:750][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.11-03.02.06:750][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.11-03.02.06:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.11-03.02.06:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.11-03.02.06:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.11-03.02.06:750][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.11-03.02.06:750][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.11-03.02.06:751][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.11-03.02.06:752][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.11-03.02.06:752][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.11-03.02.06:752][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.11-03.02.06:755][  0]LogHAL: Display: Platform has ~ 8 GB [8449183744 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.11-03.02.06:755][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.11-03.02.06:755][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:755][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.11-03.02.06:755][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.11-03.02.06:755][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:755][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.11-03.02.06:755][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:755][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.11-03.02.06:755][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.11-03.02.06:755][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.11-03.02.06:755][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.11-03.02.06:755][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.11-03.02.06:755][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.11-03.02.06:756][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.11-03.02.06:757][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Config/Windows/Engine.ini]
+[2020.04.11-03.02.06:757][  0]LogInit: Computer: DESKTOP-4R9U2UH
+[2020.04.11-03.02.06:757][  0]LogInit: User: steph
+[2020.04.11-03.02.06:757][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.04.11-03.02.06:757][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.11-03.02.06:757][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.04.11-03.02.06:757][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.11-03.02.06:757][  0]LogMemory: Process Physical Memory: 102.96 MB used, 102.97 MB peak
+[2020.04.11-03.02.06:757][  0]LogMemory: Process Virtual Memory: 99.71 MB used, 99.71 MB peak
+[2020.04.11-03.02.06:758][  0]LogMemory: Physical Memory: 4650.95 MB used,  3406.82 MB free, 8057.77 MB total
+[2020.04.11-03.02.06:758][  0]LogMemory: Virtual Memory: 5117.15 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.04.11-03.02.06:760][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.11-03.02.06:776][  0]LogInit: Using OS detected language (en-US).
+[2020.04.11-03.02.06:776][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.11-03.02.06:778][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.11-03.02.07:045][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.11-03.02.07:098][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.11-03.02.07:098][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.11-03.02.07:340][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.11-03.02.07:340][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.11-03.02.07:340][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.11-03.02.07:340][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.11-03.02.07:374][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.04.11-03.02.07:374][  0]LogD3D11RHI:       128/0/4028 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.04.11-03.02.07:377][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.11-03.02.07:377][  0]LogD3D11RHI:       0/0/4028 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.11-03.02.07:377][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.11-03.02.07:385][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.11-03.02.07:386][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.11-03.02.07:386][  0]LogWindows: EnumDisplayDevices:
+[2020.04.11-03.02.07:386][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.04.11-03.02.07:386][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.04.11-03.02.07:387][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.04.11-03.02.07:387][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.04.11-03.02.07:387][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.04.11-03.02.07:387][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2020.04.11-03.02.07:387][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2020.04.11-03.02.07:387][  0]LogRHI: Texture pool is 1499 MB (70% of 2142 MB)
+[2020.04.11-03.02.07:415][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.04.11-03.02.07:415][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.11-03.02.07:421][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.04.11-03.02.07:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.11-03.02.07:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.11-03.02.07:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.11-03.02.07:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.11-03.02.07:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.11-03.02.07:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.11-03.02.07:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.11-03.02.08:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.11-03.02.08:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.11-03.02.08:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.11-03.02.08:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.11-03.02.08:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.11-03.02.08:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.11-03.02.08:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.11-03.02.08:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.11-03.02.08:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.11-03.02.08:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.11-03.02.08:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.11-03.02.08:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.11-03.02.08:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.11-03.02.08:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.11-03.02.08:185][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.11-03.02.08:188][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.11-03.02.08:220][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Intermediate/Shaders/WorkingDirectory/6228/).
+[2020.04.11-03.02.08:221][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/steph/AppData/Local/Temp/UnrealShaderWorkingDir/F7FBF1984F5A8E8EDC6D9B80083D42B7/'.
+[2020.04.11-03.02.08:221][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.11-03.02.08:221][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.11-03.02.08:221][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.11-03.02.09:256][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.11-03.02.09:330][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/steph/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.11-03.02.09:330][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/steph/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.11-03.02.09:331][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.11-03.02.09:331][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.11-03.02.09:331][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.11-03.02.09:331][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.11-03.02.09:346][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.11-03.02.09:346][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.11-03.02.09:346][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.11-03.02.09:347][  0]LogDerivedDataCache: Using Local data cache path C:/Users/steph/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.11-03.02.09:348][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.11-03.02.09:348][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.11-03.02.09:392][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.11-03.02.09:396][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.11-03.02.09:397][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.11-03.02.09:464][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.04.11-03.02.09:960][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.11-03.02.10:230][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.11-03.02.10:230][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.11-03.02.10:230][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.11-03.02.10:230][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.11-03.02.10:230][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.11-03.02.10:249][  0]LogNetVersion: SpaceshipBattle 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3847881980)
+[2020.04.11-03.02.12:039][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.075826 seconds
+[2020.04.11-03.02.12:052][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.11-03.02.12:052][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.11-03.02.12:052][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.11-03.02.12:887][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.11-03.02.12:964][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.11-03.02.13:055][  0]SourceControl: Source control is disabled
+[2020.04.11-03.02.13:055][  0]SourceControl: Source control is disabled
+[2020.04.11-03.02.13:057][  0]SourceControl: Source control is disabled
+[2020.04.11-03.02.13:059][  0]SourceControl: Source control is disabled
+[2020.04.11-03.02.13:060][  0]SourceControl: Source control is disabled
+[2020.04.11-03.02.13:197][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.11-03.02.13:214][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.11-03.02.13:214][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.11-03.02.13:404][  0]LogOcInput: OculusInput pre-init called
+[2020.04.11-03.02.13:417][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.11-03.02.13:417][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.11-03.02.13:566][  0]LogEngine: Initializing Engine...
+[2020.04.11-03.02.13:568][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.11-03.02.13:570][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.11-03.02.14:380][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.11-03.02.14:390][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.11-03.02.14:569][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-03.02.14:569][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-03.02.14:569][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-03.02.14:569][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-03.02.14:569][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-03.02.14:569][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-03.02.14:569][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-03.02.14:569][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-03.02.14:570][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-03.02.14:570][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-03.02.14:587][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-03.02.14:587][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.02.14:587][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-03.02.14:587][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-03.02.14:587][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-03.02.14:587][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-03.02.14:587][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.11-03.02.14:587][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-03.02.14:587][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-03.02.14:711][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.02.14:717][  0]LogInit: FAudioDevice initialized.
+[2020.04.11-03.02.14:718][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.11-03.02.14:820][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/steph/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.11-03.02.14:828][  0]LogInit: Texture streaming: Enabled
+[2020.04.11-03.02.14:844][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.11-03.02.14:844][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.11-03.02.14:847][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.11-03.02.14:876][  0]LogInit: Transaction tracking system initialized
+[2020.04.11-03.02.14:892][  0]BlueprintLog: New page: Editor Load
+[2020.04.11-03.02.14:939][  0]LocalizationService: Localization service is disabled
+[2020.04.11-03.02.15:618][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steph/Downloads/SpaceshipBattleStarter/Content/' took 0.00s
+[2020.04.11-03.02.15:618][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.11-03.02.15:618][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.11-03.02.16:758][  0]SourceControl: Source control is disabled
+[2020.04.11-03.02.16:758][  0]Cmd: MAP LOAD FILE="../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.11-03.02.16:766][  0]LightingResults: New page: Lighting Build
+[2020.04.11-03.02.16:767][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.02.16:767][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.02.16:767][  0]MapCheck: New page: Map Check
+[2020.04.11-03.02.16:768][  0]LightingResults: New page: Lighting Build
+[2020.04.11-03.02.16:796][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.04.11-03.02.17:157][  0]LogTexture: Display: Building textures: T_Grid (AutoDXT, 512X512)
+[2020.04.11-03.02.17:157][  0]LogMaterial: Display: Missing cached shader map for material M_Base_Ship, compiling. 
+[2020.04.11-03.02.17:280][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.04.11-03.02.17:280][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.04.11-03.02.17:280][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.04.11-03.02.17:280][  0]LogStaticMesh: Building static mesh SM_Bullet...
+[2020.04.11-03.02.17:297][  0]LogStaticMesh: Built static mesh [0.02s] /Game/SpaceshipBattle/Meshes/SM_Bullet.SM_Bullet
+[2020.04.11-03.02.17:305][  0]LogStaticMesh: Building static mesh SM_Ship_02...
+[2020.04.11-03.02.17:309][  0]LogStaticMesh: Built static mesh [0.00s] /Game/SpaceshipBattle/Meshes/SM_Ship_02.SM_Ship_02
+[2020.04.11-03.02.17:326][  0]LogMaterial: Display: Missing cached shader map for material M_Ground, compiling. 
+[2020.04.11-03.02.17:353][  0]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2020.04.11-03.02.17:383][  0]LogStaticMesh: Building static mesh SM_Ship_01...
+[2020.04.11-03.02.17:390][  0]LogStaticMesh: Built static mesh [0.01s] /Game/SpaceshipBattle/Meshes/SM_Ship_01.SM_Ship_01
+[2020.04.11-03.02.17:393][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.02.17:400][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.11-03.02.17:440][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.04.11-03.02.17:440][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.11-03.02.17:440][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2020.04.11-03.02.17:440][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.682
+[2020.04.11-03.02.17:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.02.17:746][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.02.17:761][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.02.17:776][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.02.17:791][  0]LogCollectionManager: Loaded 0 collections in 0.003436 seconds
+[2020.04.11-03.02.17:818][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steph/Downloads/SpaceshipBattleStarter/Saved/Collections/' took 0.00s
+[2020.04.11-03.02.17:818][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steph/Downloads/SpaceshipBattleStarter/Content/Developers/steph/Collections/' took 0.00s
+[2020.04.11-03.02.17:818][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steph/Downloads/SpaceshipBattleStarter/Content/Collections/' took 0.00s
+[2020.04.11-03.02.17:818][  0]LogContentBrowser: Native class hierarchy populated in 0.0181 seconds. Added 3015 classes and 717 folders.
+[2020.04.11-03.02.17:822][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.11-03.02.18:350][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.11-03.02.18:355][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.04.11-03.02.18:522][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.11-03.02.18:526][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.11-03.02.18:546][  0]LogSlate: Took 0.010855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.11-03.02.18:774][  0]LogRenderer: Reallocating scene render targets to support 840x372 Format 10 NumSamples 1 (Frame:1).
+[2020.04.11-03.02.19:069][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.11-03.02.19:070][  0]LogLoad: (Engine Initialization) Total time: 14.12 seconds
+[2020.04.11-03.02.19:070][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.11-03.02.19:134][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.11-03.02.19:152][  0]LogSlate: Took 0.009733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.11-03.03.02:378][612]LogAssetRegistry: Asset discovery search completed in 52.9152 seconds
+[2020.04.11-03.03.02:386][612]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2020.04.11-03.03.48:639][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.04.11-03.03.52:974][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.11-03.03.54:104][488]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-03.03.54:123][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.03.54:123][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-03.03.54:124][488]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 1:03:54 PM)
+[2020.04.11-03.03.54:126][488]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.11-03.03.54:128][488]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.11-03.03.54:129][488]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.03.54:141][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012237s)
+[2020.04.11-03.03.54:143][488]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.03.54:144][488]LogPlayLevel: PIE: World Init took: (0.002909s)
+[2020.04.11-03.03.54:144][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.015603s)
+[2020.04.11-03.03.54:184][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.04.11-03.03.54:187][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-03.03.54:187][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-03.03.54:187][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-03.03.54:187][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-03.03.54:187][488]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-03.03.54:187][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-03.03.54:187][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-03.03.54:187][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-03.03.54:188][488]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-03.03.54:188][488]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-03.03.54:196][488]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-03.03.54:196][488]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.03.54:197][488]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-03.03.54:197][488]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-03.03.54:197][488]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-03.03.54:197][488]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-03.03.54:197][488]LogAudioMixer: Display: Channel Order:
+[2020.04.11-03.03.54:197][488]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-03.03.54:197][488]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-03.03.54:320][488]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.03.54:325][488]LogInit: FAudioDevice initialized.
+[2020.04.11-03.03.54:341][488]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.03.54:345][488]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.04.10-20.03.54
+[2020.04.11-03.03.54:345][488]LogWorld: Bringing up level for play took: 0.002001
+[2020.04.11-03.03.54:346][488]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.04.11-03.03.54:356][488]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.04.11-03.03.54:361][488]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.03.54:361][488]r.TonemapperFilm = "0"
+[2020.04.11-03.03.54:362][488]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0.039
+[2020.04.11-03.03.54:362][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.03.58:805][701]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.04.11-03.03.59:171][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.04.11-03.04.00:525][781]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.04.00:527][781]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.04.00:527][781]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.04.00:528][781]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.04.00:528][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.04.00:528][781]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.04.00:574][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.04.11-03.04.00:577][781]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.04.00:589][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012221s)
+[2020.04.11-03.04.00:594][781]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.04.00:595][781]LogPlayLevel: PIE: World Init took: (0.005747s)
+[2020.04.11-03.04.00:595][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.018254s)
+[2020.04.11-03.04.00:595][781]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.04.00:598][781]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.04.10-20.04.00
+[2020.04.11-03.04.00:598][781]LogWorld: Bringing up level for play took: 0.001972
+[2020.04.11-03.04.00:601][781]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.04.00:601][781]r.TonemapperFilm = "0"
+[2020.04.11-03.04.00:602][781]LogLoad: Took 0.074842 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-03.04.15:377][462]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.04.15:377][462]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.04.15:378][462]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.04.15:380][462]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.04.15:381][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.04.15:381][462]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.04.15:429][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.04.11-03.04.15:431][462]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.04.15:440][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008456s)
+[2020.04.11-03.04.15:441][462]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.04.15:442][462]LogPlayLevel: PIE: World Init took: (0.001723s)
+[2020.04.11-03.04.15:442][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.010502s)
+[2020.04.11-03.04.15:442][462]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.04.15:443][462]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.04.10-20.04.15
+[2020.04.11-03.04.15:444][462]LogWorld: Bringing up level for play took: 0.001197
+[2020.04.11-03.04.15:446][462]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.04.15:446][462]r.TonemapperFilm = "0"
+[2020.04.11-03.04.15:447][462]LogLoad: Took 0.068966 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-03.04.18:815][634]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.04.11-03.04.22:608][822]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.04.11-03.04.41:256][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.04.41:257][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.04.41:257][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.04.41:257][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.04.41:257][811]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.04.41:258][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.04.41:259][811]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.04.41:259][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.04.41:274][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-03.04.41:274][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.04.41:277][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.04.41:301][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.04.41:307][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.04.41:312][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.04.11-03.04.41:365][814]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.04.11-03.06.24:034][837]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.11-03.06.24:055][837]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2020.04.11-03.06.24:072][837]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.04.11-03.10.22:641][605]LogTexture: Display: Building textures: T_Circle (AutoDXT, 512X512)
+[2020.04.11-03.10.22:642][605]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.10.22:687][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.04.11-03.10.22:687][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.04.11-03.10.22:687][605]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.04.11-03.10.39:805][905]LogMaterial: Display: Material /Game/SpaceshipBattle/Materials/M_Ground.M_Ground needed to have new flag set bUsedWithParticleSprites !
+[2020.04.11-03.10.39:819][905]LogMaterial: Display: Missing cached shader map for material M_Ground, compiling. 
+[2020.04.11-03.10.54:344][116]LogSlate: Window 'Message' being destroyed
+[2020.04.11-03.11.05:836][328]LogMaterial: Display: Material /Game/SpaceshipBattle/Materials/M_Base_Ship.M_Base_Ship needed to have new flag set bUsedWithParticleSprites !
+[2020.04.11-03.11.05:888][328]LogMaterial: Display: Missing cached shader map for material M_Base_Ship, compiling. 
+[2020.04.11-03.11.33:679][822]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 47
+[2020.04.11-03.11.34:448][836]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.04.11-03.11.38:235][896]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.04.11-03.11.46:466][ 17]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.04.11-03.11.49:925][ 78]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.04.11-03.11.52:859][133]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.04.11-03.11.53:404][151]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.04.11-03.11.55:056][190]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.04.11-03.11.55:916][213]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.04.11-03.12.53:125][968]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/PS_Thruster18B5E62F4D43F1D9391FF99C4AF42F30.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2020.04.11-03.12.53:149][968]AssetCheck: New page: Asset Save: PS_Thruster
+[2020.04.11-03.12.53:149][968]LogContentValidation: Display: Validating ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2020.04.11-03.13.07:922][388]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpaceshipBattle/Blueprints/BP_Player.BP_Player
+[2020.04.11-03.13.08:171][388]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.04.11-03.13.09:182][388]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.11-03.13.09:291][389]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.11-03.14.05:265][279]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.04.11-03.14.05:267][279]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceshipBattle/Maps/TutorialMap' took 0.045
+[2020.04.11-03.14.05:268][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Blueprints/BP_Player] ([1] browsable assets)...
+[2020.04.11-03.14.05:308][279]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpaceshipBattle/Blueprints/BP_Player.BP_Player]
+[2020.04.11-03.14.05:308][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Blueprints/BP_Player]
+[2020.04.11-03.14.05:401][279]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/BP_Player_Auto15FCC96B144533833B3D64296E98A3DE9.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Blueprints/BP_Player_Auto1.uasset'
+[2020.04.11-03.14.05:405][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Materials/M_Base_Ship] ([1] browsable assets)...
+[2020.04.11-03.14.05:450][279]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SpaceshipBattle/Materials/M_Base_Ship.M_Base_Ship]
+[2020.04.11-03.14.05:450][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Materials/M_Base_Ship]
+[2020.04.11-03.14.05:488][279]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/M_Base_Ship_Auto105E3D8A5451440EF700E3BABDC2182EC.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Materials/M_Base_Ship_Auto1.uasset'
+[2020.04.11-03.14.05:490][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Materials/MI_Bullet] ([1] browsable assets)...
+[2020.04.11-03.14.05:531][279]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/SpaceshipBattle/Materials/MI_Bullet.MI_Bullet]
+[2020.04.11-03.14.05:531][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Materials/MI_Bullet]
+[2020.04.11-03.14.05:572][279]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/MI_Bullet_Auto1BDE2D18C498042B2EF9C31989F6B44ED.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Materials/MI_Bullet_Auto1.uasset'
+[2020.04.11-03.14.05:574][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Materials/M_Ground] ([1] browsable assets)...
+[2020.04.11-03.14.05:612][279]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SpaceshipBattle/Materials/M_Ground.M_Ground]
+[2020.04.11-03.14.05:612][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Materials/M_Ground]
+[2020.04.11-03.14.05:644][279]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/M_Ground_Auto12525CE534E62DEB525B39D9F77B08DB4.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Materials/M_Ground_Auto1.uasset'
+[2020.04.11-03.14.05:649][279]LogFileHelpers: Auto-saving content packages took 0.382
+[2020.04.11-03.14.43:346][806]BlueprintLog: New page: Compile BP_Player
+[2020.04.11-03.14.43:620][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.04.11-03.14.47:834][954]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-03.14.47:852][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.14.47:852][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-03.14.47:852][954]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 1:14:47 PM)
+[2020.04.11-03.14.47:853][954]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.14.47:858][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005741s)
+[2020.04.11-03.14.47:860][954]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.14.47:860][954]LogPlayLevel: PIE: World Init took: (0.001630s)
+[2020.04.11-03.14.47:860][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007571s)
+[2020.04.11-03.14.47:907][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.04.11-03.14.47:908][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-03.14.47:908][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-03.14.47:908][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-03.14.47:908][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-03.14.47:908][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-03.14.47:908][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-03.14.47:908][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-03.14.47:908][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-03.14.47:909][954]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-03.14.47:909][954]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-03.14.47:914][954]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-03.14.47:914][954]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.14.47:914][954]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-03.14.47:914][954]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-03.14.47:914][954]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-03.14.47:914][954]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-03.14.47:914][954]LogAudioMixer: Display: Channel Order:
+[2020.04.11-03.14.47:914][954]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-03.14.47:914][954]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-03.14.48:001][954]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.14.48:003][954]LogInit: FAudioDevice initialized.
+[2020.04.11-03.14.48:012][954]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.14.48:013][954]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.04.10-20.14.48
+[2020.04.11-03.14.48:013][954]LogWorld: Bringing up level for play took: 0.000780
+[2020.04.11-03.14.48:013][954]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.11-03.14.48:016][954]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.14.48:016][954]r.TonemapperFilm = "0"
+[2020.04.11-03.14.48:017][954]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap -0.306
+[2020.04.11-03.14.48:017][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.15.10:903][291]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.15.10:904][291]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.15.10:904][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.15.10:904][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.15.10:905][291]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.15.10:905][291]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.15.10:905][291]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.15.10:906][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.15.10:918][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-03.15.10:919][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.15.10:924][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.15.10:956][291]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.15.10:960][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.15.10:966][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.04.11-03.15.10:999][293]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.11-03.17.57:126][338]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/PS_ThrusterE2123488475AAE171A111EB70D840CB1.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2020.04.11-03.17.57:142][338]AssetCheck: New page: Asset Save: PS_Thruster
+[2020.04.11-03.17.57:142][338]LogContentValidation: Display: Validating ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2020.04.11-03.18.00:952][475]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-03.18.00:972][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.18.00:972][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-03.18.00:972][475]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 1:18:00 PM)
+[2020.04.11-03.18.00:972][475]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.18.00:977][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005002s)
+[2020.04.11-03.18.00:979][475]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.18.00:979][475]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2020.04.11-03.18.00:979][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006585s)
+[2020.04.11-03.18.01:014][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.04.11-03.18.01:015][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-03.18.01:015][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-03.18.01:015][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-03.18.01:015][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-03.18.01:015][475]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-03.18.01:015][475]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-03.18.01:015][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-03.18.01:015][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-03.18.01:016][475]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-03.18.01:016][475]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-03.18.01:020][475]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-03.18.01:020][475]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.18.01:020][475]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-03.18.01:020][475]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-03.18.01:020][475]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-03.18.01:020][475]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-03.18.01:020][475]LogAudioMixer: Display: Channel Order:
+[2020.04.11-03.18.01:020][475]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-03.18.01:020][475]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-03.18.01:107][475]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.18.01:109][475]LogInit: FAudioDevice initialized.
+[2020.04.11-03.18.01:118][475]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.18.01:119][475]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.04.10-20.18.01
+[2020.04.11-03.18.01:119][475]LogWorld: Bringing up level for play took: 0.000652
+[2020.04.11-03.18.01:119][475]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.04.11-03.18.01:122][475]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.18.01:122][475]r.TonemapperFilm = "0"
+[2020.04.11-03.18.01:122][475]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0.8
+[2020.04.11-03.18.01:122][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.18.14:354][249]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.18.14:354][249]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.18.14:354][249]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.18.14:354][249]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.18.14:354][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.18.14:354][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.18.14:390][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.04.11-03.18.14:391][249]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.18.14:396][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004875s)
+[2020.04.11-03.18.14:397][249]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.18.14:397][249]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2020.04.11-03.18.14:397][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006039s)
+[2020.04.11-03.18.14:397][249]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.18.14:398][249]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.04.10-20.18.14
+[2020.04.11-03.18.14:398][249]LogWorld: Bringing up level for play took: 0.000794
+[2020.04.11-03.18.14:400][249]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.18.14:400][249]r.TonemapperFilm = "0"
+[2020.04.11-03.18.14:400][249]LogLoad: Took 0.045841 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-03.18.24:526][842]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.18.24:526][842]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.18.24:526][842]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.18.24:527][842]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.18.24:527][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.18.24:527][842]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.18.24:564][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.04.11-03.18.24:564][842]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.18.24:569][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004209s)
+[2020.04.11-03.18.24:570][842]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.18.24:570][842]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2020.04.11-03.18.24:570][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005503s)
+[2020.04.11-03.18.24:570][842]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.18.24:571][842]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.04.10-20.18.24
+[2020.04.11-03.18.24:571][842]LogWorld: Bringing up level for play took: 0.000778
+[2020.04.11-03.18.24:573][842]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.18.24:573][842]r.TonemapperFilm = "0"
+[2020.04.11-03.18.24:573][842]LogLoad: Took 0.046546 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-03.18.29:092][111]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.18.29:092][111]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.18.29:092][111]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.18.29:093][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.18.29:093][111]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.18.29:093][111]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.18.29:093][111]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.18.29:094][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.18.29:107][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-03.18.29:108][111]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.18.29:111][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.18.29:143][111]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.18.29:148][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.18.29:152][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.04.11-03.18.29:322][114]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.11-03.18.33:920][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.11-03.19.32:554][934]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/PS_Thruster438D4576492FEBE93E5249B1E55306C3.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2020.04.11-03.19.32:579][934]AssetCheck: New page: Asset Save: PS_Thruster
+[2020.04.11-03.19.32:579][934]LogContentValidation: Display: Validating ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2020.04.11-03.19.38:522][135]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-03.19.38:555][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.19.38:555][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-03.19.38:555][135]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 1:19:38 PM)
+[2020.04.11-03.19.38:555][135]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.19.38:562][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007265s)
+[2020.04.11-03.19.38:563][135]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.19.38:563][135]LogPlayLevel: PIE: World Init took: (0.001687s)
+[2020.04.11-03.19.38:563][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.009176s)
+[2020.04.11-03.19.38:605][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.04.11-03.19.38:606][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-03.19.38:606][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-03.19.38:606][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-03.19.38:606][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-03.19.38:607][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-03.19.38:607][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-03.19.38:607][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-03.19.38:607][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-03.19.38:607][135]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-03.19.38:607][135]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-03.19.38:612][135]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-03.19.38:612][135]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.19.38:612][135]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-03.19.38:612][135]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-03.19.38:612][135]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-03.19.38:613][135]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-03.19.38:613][135]LogAudioMixer: Display: Channel Order:
+[2020.04.11-03.19.38:613][135]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-03.19.38:613][135]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-03.19.38:707][135]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.19.38:709][135]LogInit: FAudioDevice initialized.
+[2020.04.11-03.19.38:715][135]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.19.38:715][135]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.04.10-20.19.38
+[2020.04.11-03.19.38:716][135]LogWorld: Bringing up level for play took: 0.000560
+[2020.04.11-03.19.38:716][135]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.04.11-03.19.38:719][135]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.19.38:719][135]r.TonemapperFilm = "0"
+[2020.04.11-03.19.38:719][135]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0.397
+[2020.04.11-03.19.38:719][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.19.52:900][963]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.19.52:900][963]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.19.52:900][963]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.19.52:900][963]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.19.52:901][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.19.52:901][963]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.19.52:938][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.04.11-03.19.52:939][963]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.19.52:944][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004691s)
+[2020.04.11-03.19.52:945][963]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.19.52:945][963]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2020.04.11-03.19.52:945][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005842s)
+[2020.04.11-03.19.52:945][963]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.19.52:946][963]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.04.10-20.19.52
+[2020.04.11-03.19.52:946][963]LogWorld: Bringing up level for play took: 0.000730
+[2020.04.11-03.19.52:947][963]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.19.52:948][963]r.TonemapperFilm = "0"
+[2020.04.11-03.19.52:948][963]LogLoad: Took 0.048515 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-03.20.31:800][205]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.20.31:800][205]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.20.31:800][205]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.20.31:800][205]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.20.31:801][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.20.31:801][205]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.20.31:844][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.11-03.20.31:845][205]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.20.31:849][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004247s)
+[2020.04.11-03.20.31:850][205]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.20.31:850][205]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2020.04.11-03.20.31:850][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005668s)
+[2020.04.11-03.20.31:850][205]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.20.31:851][205]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.04.10-20.20.31
+[2020.04.11-03.20.31:852][205]LogWorld: Bringing up level for play took: 0.000876
+[2020.04.11-03.20.31:854][205]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.20.31:854][205]r.TonemapperFilm = "0"
+[2020.04.11-03.20.31:854][205]LogLoad: Took 0.053830 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-03.20.35:837][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.20.35:837][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.20.35:837][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.20.35:838][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.20.35:838][439]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.20.35:838][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.20.35:838][439]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.20.35:839][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.20.35:851][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-03.20.35:851][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.20.35:856][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.20.35:887][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.20.35:894][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.20.35:898][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.04.11-03.20.35:934][441]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.11-03.26.27:997][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.04.11-03.26.27:998][590]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceshipBattle/Maps/TutorialMap' took 0.046
+[2020.04.11-03.26.27:999][590]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Blueprints/BP_Player] ([1] browsable assets)...
+[2020.04.11-03.26.28:039][590]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpaceshipBattle/Blueprints/BP_Player.BP_Player]
+[2020.04.11-03.26.28:039][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Blueprints/BP_Player]
+[2020.04.11-03.26.28:110][590]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/BP_Player_Auto22139A49249C4D83E19364C86435B0AF4.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Blueprints/BP_Player_Auto2.uasset'
+[2020.04.11-03.26.28:117][590]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/ParticleSystems/PS_Thruster] ([1] browsable assets)...
+[2020.04.11-03.26.28:120][590]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster]
+[2020.04.11-03.26.28:120][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/ParticleSystems/PS_Thruster]
+[2020.04.11-03.26.28:159][590]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/PS_Thruster_Auto29DF300E84DED5C6D1EBECEBD9128529E.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/ParticleSystems/PS_Thruster_Auto2.uasset'
+[2020.04.11-03.26.28:160][590]LogFileHelpers: Auto-saving content packages took 0.161
+[2020.04.11-03.26.56:931][130]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/PS_ThrusterFD1FCB854A9E685BB382D68E6353498C.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2020.04.11-03.26.56:960][130]AssetCheck: New page: Asset Save: PS_Thruster
+[2020.04.11-03.26.56:961][130]LogContentValidation: Display: Validating ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2020.04.11-03.27.04:593][429]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-03.27.04:616][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.27.04:616][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-03.27.04:616][429]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 1:27:04 PM)
+[2020.04.11-03.27.04:616][429]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.27.04:623][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006995s)
+[2020.04.11-03.27.04:625][429]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.27.04:625][429]LogPlayLevel: PIE: World Init took: (0.001874s)
+[2020.04.11-03.27.04:625][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.009073s)
+[2020.04.11-03.27.04:671][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.04.11-03.27.04:672][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-03.27.04:672][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-03.27.04:673][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-03.27.04:673][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-03.27.04:673][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-03.27.04:673][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-03.27.04:673][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-03.27.04:673][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-03.27.04:674][429]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-03.27.04:674][429]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-03.27.04:679][429]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-03.27.04:679][429]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.27.04:679][429]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-03.27.04:679][429]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-03.27.04:679][429]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-03.27.04:679][429]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-03.27.04:679][429]LogAudioMixer: Display: Channel Order:
+[2020.04.11-03.27.04:679][429]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-03.27.04:679][429]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-03.27.04:777][429]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.27.04:779][429]LogInit: FAudioDevice initialized.
+[2020.04.11-03.27.04:788][429]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.27.04:789][429]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-20.27.04
+[2020.04.11-03.27.04:790][429]LogWorld: Bringing up level for play took: 0.000849
+[2020.04.11-03.27.04:790][429]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.04.11-03.27.04:793][429]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.27.04:793][429]r.TonemapperFilm = "0"
+[2020.04.11-03.27.04:793][429]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0.471
+[2020.04.11-03.27.04:794][429]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.27.23:696][685]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.27.23:696][685]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.27.23:697][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.27.23:697][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.27.23:697][685]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.27.23:697][685]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.27.23:697][685]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.27.23:698][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.27.23:711][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-03.27.23:712][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.27.23:716][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.27.23:749][685]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.27.23:754][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.27.23:759][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.11-03.27.23:820][687]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.11-03.27.44:341][834]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/SpaceshipBattle/Materials/M_Particle.M_Particle
+[2020.04.11-03.27.44:350][834]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.27.44:823][834]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.27.44:850][834]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.11-03.27.44:850][834]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.27.44:850][834]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.27.44:868][834]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-03.27.44:896][834]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.11-03.27.57:811][128]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.04.11-03.27.59:001][156]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.04.11-03.28.06:208][320]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.04.11-03.28.14:042][500]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.04.11-03.28.21:130][651]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.04.11-03.28.30:691][866]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.11-03.28.38:066][ 27]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.04.11-03.28.42:836][118]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.04.11-03.28.42:836][118]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.11-03.28.42:931][119]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2020.04.11-03.28.42:931][119]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.04.11-03.28.42:931][119]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.11-03.28.42:931][119]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.11-03.28.42:931][119]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.11-03.28.43:645][127]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.04.11-03.28.44:966][134]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.04.11-03.28.45:172][136]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.04.11-03.28.46:472][151]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.04.11-03.31.30:092][749]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.31.30:165][750]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.11-03.31.30:165][750]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.31.30:165][750]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.31.33:195][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.11-03.31.33:748][864]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.04.11-03.31.35:716][910]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.04.11-03.31.35:950][913]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.04.11-03.31.37:759][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.04.11-03.31.40:971][973]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2020.04.11-03.31.40:971][973]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.04.11-03.31.40:971][973]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.11-03.31.40:971][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.11-03.31.40:971][973]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.11-03.31.52:750][646]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.31.52:817][647]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.11-03.31.52:817][647]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.31.52:817][647]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.31.56:242][769]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.11-03.31.57:640][801]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.04.11-03.31.57:851][803]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.04.11-03.31.58:469][812]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.04.11-03.31.59:756][828]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.04.11-03.32.02:160][910]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.32.02:185][910]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.04.11-03.32.03:771][950]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.04.11-03.32.04:510][981]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.32.04:510][981]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.11-03.32.08:396][ 99]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.04.11-03.32.10:489][150]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.04.11-03.32.10:673][153]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.04.11-03.32.11:783][167]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.04.11-03.32.19:813][493]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.32.19:876][494]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.11-03.32.19:876][494]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.32.19:876][494]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.32.25:435][610]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.04.11-03.32.25:436][610]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.04.11-03.32.25:982][617]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.04.11-03.32.26:510][624]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.04.11-03.32.27:261][633]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.04.11-03.32.30:064][721]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.32.30:102][722]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.11-03.32.30:102][722]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.32.30:102][722]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.32.35:897][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.11-03.32.36:031][845]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.04.11-03.32.36:242][848]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.04.11-03.32.37:036][858]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.04.11-03.32.38:018][867]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.04.11-03.32.38:854][898]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.32.38:889][898]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.04.11-03.32.38:889][898]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.11-03.32.41:165][940]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.04.11-03.32.41:541][945]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.04.11-03.32.41:859][950]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.04.11-03.32.42:589][960]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.04.11-03.32.43:047][962]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.04.11-03.32.43:302][966]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.32.47:338][ 64]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.11-03.32.47:360][ 65]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.04.11-03.32.48:038][ 93]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.32.50:822][175]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.32.52:265][206]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.04.11-03.32.52:360][208]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.04.11-03.32.52:961][216]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.04.11-03.32.54:401][229]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.04.11-03.32.55:184][243]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.04.11-03.32.55:226][244]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.04.11-03.32.56:802][274]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.11-03.32.57:350][280]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.04.11-03.32.57:636][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.04.11-03.32.57:997][288]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.04.11-03.32.59:880][302]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.04.11-03.33.03:383][369]LogMaterialEditor: Applying material M_Particle
+[2020.04.11-03.33.03:988][369]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.33.04:019][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.11-03.33.04:019][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.33.04:019][369]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.33.04:069][369]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.33.04:162][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.04.11-03.33.04:197][369]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.11-03.33.06:401][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.04.11-03.33.06:401][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.04.11-03.33.06:401][369]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.04.11-03.33.06:401][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.04.11-03.33.06:401][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.04.11-03.33.06:401][369]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.04.11-03.33.06:401][369]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.04.11-03.33.06:401][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.04.11-03.33.06:401][369]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.04.11-03.33.06:409][369]TextureStreamingBuild: Display: Compiling optional shaders took 2.245 seconds.
+[2020.04.11-03.33.06:499][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.04.11-03.33.09:040][421]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.04.11-03.33.13:661][476]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.33.18:156][551]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.04.11-03.33.21:397][602]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.04.11-03.33.22:629][622]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.04.11-03.33.25:449][662]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2020.04.11-03.33.25:449][662]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.04.11-03.33.25:449][662]MaterialEditorStats: Texture samplers: 8/16
+[2020.04.11-03.33.25:449][662]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.11-03.33.25:449][662]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.11-03.34.39:166][306]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.11-03.35.59:187][718]LogCascade: Non-seeded module ParticleModuleColorOverLife
+[2020.04.11-03.36.08:447][901]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/PS_ThrusterFDBD8E024DB1D5DEB57D2EBC5C15DBCD.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2020.04.11-03.36.08:469][901]AssetCheck: New page: Asset Save: PS_Thruster
+[2020.04.11-03.36.08:469][901]LogContentValidation: Display: Validating ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2020.04.11-03.36.11:580][986]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/PS_Thruster9ECDBF0F4B42E64F05AC9A8DEE2AB3B5.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2020.04.11-03.36.11:600][986]AssetCheck: New page: Asset Save: PS_Thruster
+[2020.04.11-03.36.11:600][986]LogContentValidation: Display: Validating ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2020.04.11-03.36.17:405][216]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-03.36.17:440][216]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.36.17:440][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-03.36.17:440][216]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 1:36:17 PM)
+[2020.04.11-03.36.17:440][216]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.36.17:449][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008494s)
+[2020.04.11-03.36.17:451][216]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.36.17:451][216]LogPlayLevel: PIE: World Init took: (0.002199s)
+[2020.04.11-03.36.17:451][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.010915s)
+[2020.04.11-03.36.17:498][216]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.04.11-03.36.17:501][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-03.36.17:501][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-03.36.17:501][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-03.36.17:501][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-03.36.17:501][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-03.36.17:501][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-03.36.17:501][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-03.36.17:501][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-03.36.17:502][216]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-03.36.17:502][216]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-03.36.17:509][216]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-03.36.17:509][216]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.36.17:509][216]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-03.36.17:509][216]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-03.36.17:509][216]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-03.36.17:509][216]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-03.36.17:509][216]LogAudioMixer: Display: Channel Order:
+[2020.04.11-03.36.17:509][216]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-03.36.17:509][216]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-03.36.17:619][216]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.36.17:621][216]LogInit: FAudioDevice initialized.
+[2020.04.11-03.36.17:631][216]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.36.17:634][216]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-20.36.17
+[2020.04.11-03.36.17:634][216]LogWorld: Bringing up level for play took: 0.001477
+[2020.04.11-03.36.17:634][216]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.04.11-03.36.17:639][216]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.36.17:639][216]r.TonemapperFilm = "0"
+[2020.04.11-03.36.17:639][216]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap -0.684
+[2020.04.11-03.36.17:639][216]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.37.25:639][355]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.37.25:639][355]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.37.25:639][355]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.37.25:640][355]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.37.25:641][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.37.25:643][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.37.25:702][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.04.11-03.37.25:703][355]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.37.25:708][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004853s)
+[2020.04.11-03.37.25:709][355]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.37.25:710][355]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2020.04.11-03.37.25:710][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006558s)
+[2020.04.11-03.37.25:710][355]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.37.25:711][355]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-20.37.25
+[2020.04.11-03.37.25:712][355]LogWorld: Bringing up level for play took: 0.001046
+[2020.04.11-03.37.25:713][355]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.37.25:714][355]r.TonemapperFilm = "0"
+[2020.04.11-03.37.25:714][355]LogLoad: Took 0.074368 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-03.37.30:446][734]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.37.30:446][734]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.37.30:446][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.37.30:446][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.37.30:447][734]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.37.30:447][734]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.37.30:447][734]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.37.30:447][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.37.30:460][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-03.37.30:460][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.37.30:465][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.37.30:497][734]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.37.30:503][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.37.30:507][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.04.11-03.37.30:544][736]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.11-03.44.36:443][127]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.04.11-03.44.36:445][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceshipBattle/Maps/TutorialMap' took 0.071
+[2020.04.11-03.44.36:446][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Blueprints/BP_Player] ([1] browsable assets)...
+[2020.04.11-03.44.36:484][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpaceshipBattle/Blueprints/BP_Player.BP_Player]
+[2020.04.11-03.44.36:484][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Blueprints/BP_Player]
+[2020.04.11-03.44.36:556][127]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/BP_Player_Auto312168B314F879AA82C9E5B867300DE00.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Blueprints/BP_Player_Auto3.uasset'
+[2020.04.11-03.44.36:561][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Materials/M_Particle] ([1] browsable assets)...
+[2020.04.11-03.44.36:600][127]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SpaceshipBattle/Materials/M_Particle.M_Particle]
+[2020.04.11-03.44.36:600][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Materials/M_Particle]
+[2020.04.11-03.44.36:633][127]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/M_Particle_Auto3F803784140A2C50451E5EFBC1CBEC531.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Materials/M_Particle_Auto3.uasset'
+[2020.04.11-03.44.36:634][127]LogFileHelpers: Auto-saving content packages took 0.189
+[2020.04.11-03.44.38:265][178]Cmd: TRANSACTION UNDO
+[2020.04.11-03.44.38:265][178]LogEditorTransaction: Undo Add Node
+[2020.04.11-03.44.38:315][178]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.44.38:334][178]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.11-03.44.38:334][178]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.44.38:334][178]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.44.39:694][220]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.11-03.44.40:093][232]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.04.11-03.44.41:400][257]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.04.11-03.44.41:481][258]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.04.11-03.44.42:090][268]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.04.11-03.44.48:964][560]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2020.04.11-03.44.48:964][560]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.04.11-03.44.48:964][560]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.11-03.44.48:964][560]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.11-03.44.48:964][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.11-03.44.58:118][812]LogEditorTransaction: Undo Create Pin Link
+[2020.04.11-03.44.58:148][812]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.44.58:287][813]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.11-03.44.58:288][813]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.44.58:288][813]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.44.58:717][823]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.04.11-03.44.58:739][824]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.04.11-03.44.59:008][837]LogEditorTransaction: Undo Move Node
+[2020.04.11-03.44.59:058][837]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.44.59:204][838]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.04.11-03.45.00:001][858]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.04.11-03.45.01:484][899]LogEditorTransaction: Undo Add Node
+[2020.04.11-03.45.01:541][899]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.45.02:235][915]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.04.11-03.45.03:069][930]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.45.03:069][930]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.04.11-03.45.03:069][930]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.04.11-03.45.03:620][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.04.11-03.45.03:989][969]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.04.11-03.45.04:253][981]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.04.11-03.45.05:657][ 37]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.04.11-03.45.13:225][427]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2020.04.11-03.45.13:225][427]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.04.11-03.45.13:225][427]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.11-03.45.13:225][427]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.11-03.45.13:225][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.11-03.45.14:859][488]LogEditorTransaction: Undo Add Node
+[2020.04.11-03.45.14:889][488]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2020.04.11-03.45.15:027][489]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.11-03.45.15:027][489]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.11-03.45.15:027][489]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.04.11-03.45.16:016][513]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.11-03.45.16:052][514]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.04.11-03.45.16:900][529]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.04.11-03.45.17:082][536]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.04.11-03.45.20:179][630]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.04.11-03.45.32:514][278]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2020.04.11-03.45.32:515][278]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.04.11-03.45.32:515][278]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.11-03.45.32:515][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.11-03.45.32:515][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.11-03.47.19:287][467]BlueprintLog: New page: Compile BP_Player
+[2020.04.11-03.47.19:691][467]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.04.11-03.47.38:063][757]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-03.47.38:098][757]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.47.38:098][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-03.47.38:098][757]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 1:47:38 PM)
+[2020.04.11-03.47.38:098][757]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.47.38:109][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010297s)
+[2020.04.11-03.47.38:111][757]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.47.38:112][757]LogPlayLevel: PIE: World Init took: (0.003372s)
+[2020.04.11-03.47.38:112][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.013938s)
+[2020.04.11-03.47.38:167][757]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2020.04.11-03.47.38:168][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-03.47.38:168][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-03.47.38:168][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-03.47.38:168][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-03.47.38:168][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-03.47.38:169][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-03.47.38:169][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-03.47.38:169][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-03.47.38:169][757]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-03.47.38:169][757]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-03.47.38:176][757]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-03.47.38:176][757]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.47.38:176][757]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-03.47.38:176][757]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-03.47.38:176][757]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-03.47.38:176][757]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-03.47.38:176][757]LogAudioMixer: Display: Channel Order:
+[2020.04.11-03.47.38:176][757]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-03.47.38:177][757]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-03.47.38:271][757]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.47.38:273][757]LogInit: FAudioDevice initialized.
+[2020.04.11-03.47.38:294][757]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.47.38:296][757]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-20.47.38
+[2020.04.11-03.47.38:296][757]LogWorld: Bringing up level for play took: 0.000916
+[2020.04.11-03.47.38:296][757]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.04.11-03.47.38:299][757]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.47.38:299][757]r.TonemapperFilm = "0"
+[2020.04.11-03.47.38:299][757]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap -0.023
+[2020.04.11-03.47.38:299][757]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.47.54:090][782]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.47.54:090][782]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.47.54:090][782]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.47.54:091][782]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.47.54:092][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.47.54:093][782]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.47.54:139][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.04.11-03.47.54:140][782]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.47.54:145][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004651s)
+[2020.04.11-03.47.54:145][782]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.47.54:146][782]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2020.04.11-03.47.54:146][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005921s)
+[2020.04.11-03.47.54:146][782]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.47.54:147][782]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-20.47.54
+[2020.04.11-03.47.54:147][782]LogWorld: Bringing up level for play took: 0.001006
+[2020.04.11-03.47.54:149][782]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.47.54:149][782]r.TonemapperFilm = "0"
+[2020.04.11-03.47.54:149][782]LogLoad: Took 0.058788 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-03.48.08:408][677]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.48.08:408][677]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.48.08:408][677]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.48.08:409][677]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.48.08:409][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.48.08:410][677]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.48.08:459][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.04.11-03.48.08:460][677]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.48.08:465][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004656s)
+[2020.04.11-03.48.08:466][677]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.48.08:467][677]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2020.04.11-03.48.08:467][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006143s)
+[2020.04.11-03.48.08:467][677]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.48.08:468][677]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-20.48.08
+[2020.04.11-03.48.08:468][677]LogWorld: Bringing up level for play took: 0.000786
+[2020.04.11-03.48.08:469][677]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.48.08:470][677]r.TonemapperFilm = "0"
+[2020.04.11-03.48.08:470][677]LogLoad: Took 0.061307 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-03.48.11:746][941]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.48.11:746][941]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.48.11:746][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.48.11:746][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.48.11:746][941]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.48.11:746][941]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.48.11:747][941]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.48.11:747][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.48.11:758][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-03.48.11:759][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.48.11:765][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.48.11:803][941]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.48.11:809][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.48.11:814][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.04.11-03.48.11:837][942]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.11-03.49.25:323][275]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Explosion.PS_Explosion
+[2020.04.11-03.52.49:554][866]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/PS_Explosion3CF025E1411D5A36976FEBB5D544DDB1.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset'
+[2020.04.11-03.52.49:582][866]AssetCheck: New page: Asset Save: PS_Explosion
+[2020.04.11-03.52.49:582][866]LogContentValidation: Display: Validating ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Explosion.PS_Explosion
+[2020.04.11-03.52.56:940][956]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/PS_Explosion6F29933446FCD43ECBB758A6C8FDA305.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset'
+[2020.04.11-03.52.56:962][956]AssetCheck: New page: Asset Save: PS_Explosion
+[2020.04.11-03.52.56:962][956]LogContentValidation: Display: Validating ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Explosion.PS_Explosion
+[2020.04.11-03.53.08:990][228]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpaceshipBattle/Blueprints/BP_Enemy.BP_Enemy
+[2020.04.11-03.54.57:215][470]BlueprintLog: New page: Compile BP_Enemy
+[2020.04.11-03.54.57:566][470]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.04.11-03.55.02:550][658]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-03.55.02:574][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.55.02:574][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-03.55.02:575][658]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 1:55:02 PM)
+[2020.04.11-03.55.02:575][658]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.55.02:579][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004071s)
+[2020.04.11-03.55.02:580][658]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.55.02:580][658]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2020.04.11-03.55.02:580][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005516s)
+[2020.04.11-03.55.02:631][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.04.11-03.55.02:632][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-03.55.02:632][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-03.55.02:632][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-03.55.02:632][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-03.55.02:632][658]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-03.55.02:632][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-03.55.02:632][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-03.55.02:632][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-03.55.02:632][658]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-03.55.02:632][658]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-03.55.02:636][658]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-03.55.02:636][658]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.55.02:636][658]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-03.55.02:636][658]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-03.55.02:636][658]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-03.55.02:636][658]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-03.55.02:636][658]LogAudioMixer: Display: Channel Order:
+[2020.04.11-03.55.02:636][658]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-03.55.02:636][658]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-03.55.02:723][658]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.55.02:725][658]LogInit: FAudioDevice initialized.
+[2020.04.11-03.55.02:736][658]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.55.02:738][658]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-20.55.02
+[2020.04.11-03.55.02:738][658]LogWorld: Bringing up level for play took: 0.000985
+[2020.04.11-03.55.02:738][658]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.11-03.55.02:742][658]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.55.02:742][658]r.TonemapperFilm = "0"
+[2020.04.11-03.55.02:742][658]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0.42
+[2020.04.11-03.55.02:742][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.55.35:756][658]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.55.35:757][658]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-03.55.35:757][658]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.55.35:757][658]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.55.35:759][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.55.35:762][658]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.55.35:818][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.04.11-03.55.35:819][658]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.55.35:823][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004556s)
+[2020.04.11-03.55.35:824][658]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.55.35:825][658]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2020.04.11-03.55.35:825][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005759s)
+[2020.04.11-03.55.35:825][658]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.55.35:826][658]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-20.55.35
+[2020.04.11-03.55.35:826][658]LogWorld: Bringing up level for play took: 0.001042
+[2020.04.11-03.55.35:828][658]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.55.35:828][658]r.TonemapperFilm = "0"
+[2020.04.11-03.55.35:828][658]LogLoad: Took 0.071508 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-03.55.41:590][ 88]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.55.41:590][ 88]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.55.41:590][ 88]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.55.41:592][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.55.41:592][ 88]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.55.41:592][ 88]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.55.41:592][ 88]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.55.41:592][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.55.41:604][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-03.55.41:605][ 88]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.55.41:610][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.55.41:651][ 88]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.55.41:657][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.55.41:661][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.11-03.55.41:698][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.11-03.56.11:162][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.04.11-03.56.11:163][496]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceshipBattle/Maps/TutorialMap' took 0.044
+[2020.04.11-03.56.11:163][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Blueprints/BP_Enemy] ([1] browsable assets)...
+[2020.04.11-03.56.11:194][496]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpaceshipBattle/Blueprints/BP_Enemy.BP_Enemy]
+[2020.04.11-03.56.11:194][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Blueprints/BP_Enemy]
+[2020.04.11-03.56.11:255][496]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/BP_Enemy_Auto48FA21D3D4C7268E82C5859925375DC21.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Blueprints/BP_Enemy_Auto4.uasset'
+[2020.04.11-03.56.11:257][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Blueprints/BP_Player] ([1] browsable assets)...
+[2020.04.11-03.56.11:292][496]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpaceshipBattle/Blueprints/BP_Player.BP_Player]
+[2020.04.11-03.56.11:292][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Blueprints/BP_Player]
+[2020.04.11-03.56.11:379][496]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/BP_Player_Auto4B879F9BC4964A7A01EAA35AF854F589B.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Blueprints/BP_Player_Auto4.uasset'
+[2020.04.11-03.56.11:380][496]LogFileHelpers: Auto-saving content packages took 0.218
+[2020.04.11-03.56.30:587][648]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.11-03.57.55:194][173]LogCascade: Non-seeded module ParticleModuleColor
+[2020.04.11-03.58.58:979][400]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/PS_ExplosionBB3B5D06495C32BD69CD3FA585BFABD2.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset'
+[2020.04.11-03.58.59:002][400]AssetCheck: New page: Asset Save: PS_Explosion
+[2020.04.11-03.58.59:002][400]LogContentValidation: Display: Validating ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Explosion.PS_Explosion
+[2020.04.11-03.59.03:156][539]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-03.59.03:179][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.59.03:179][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-03.59.03:180][539]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 1:59:03 PM)
+[2020.04.11-03.59.03:180][539]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.59.03:184][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004615s)
+[2020.04.11-03.59.03:185][539]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-03.59.03:186][539]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2020.04.11-03.59.03:186][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006050s)
+[2020.04.11-03.59.03:229][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.11-03.59.03:231][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-03.59.03:231][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-03.59.03:231][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-03.59.03:231][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-03.59.03:231][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-03.59.03:231][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-03.59.03:231][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-03.59.03:231][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-03.59.03:232][539]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-03.59.03:232][539]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-03.59.03:237][539]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-03.59.03:237][539]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.59.03:237][539]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-03.59.03:237][539]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-03.59.03:237][539]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-03.59.03:237][539]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-03.59.03:237][539]LogAudioMixer: Display: Channel Order:
+[2020.04.11-03.59.03:237][539]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-03.59.03:237][539]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-03.59.03:326][539]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-03.59.03:327][539]LogInit: FAudioDevice initialized.
+[2020.04.11-03.59.03:339][539]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-03.59.03:341][539]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-20.59.03
+[2020.04.11-03.59.03:341][539]LogWorld: Bringing up level for play took: 0.001090
+[2020.04.11-03.59.03:341][539]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.11-03.59.03:345][539]Cmd: r.TonemapperFilm 0
+[2020.04.11-03.59.03:345][539]r.TonemapperFilm = "0"
+[2020.04.11-03.59.03:345][539]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 1.022
+[2020.04.11-03.59.03:345][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.59.16:504][451]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.59.16:504][451]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.59.16:504][451]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.59.16:504][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.59.16:504][451]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-03.59.16:504][451]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.59.16:504][451]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-03.59.16:505][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.59.16:518][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-03.59.16:519][451]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-03.59.16:524][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-03.59.16:566][451]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-03.59.16:571][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-03.59.16:576][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.04.11-03.59.16:599][452]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.11-04.01.08:023][170]BlueprintLog: New page: Compile BP_Enemy
+[2020.04.11-04.01.08:352][170]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.04.11-04.02.19:949][ 38]BlueprintLog: New page: Compile BP_Enemy
+[2020.04.11-04.02.20:297][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.04.11-04.02.43:781][731]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-04.02.43:805][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-04.02.43:805][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-04.02.43:805][731]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 2:02:43 PM)
+[2020.04.11-04.02.43:806][731]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-04.02.43:810][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004299s)
+[2020.04.11-04.02.43:811][731]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-04.02.43:811][731]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2020.04.11-04.02.43:811][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005819s)
+[2020.04.11-04.02.43:859][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.04.11-04.02.43:861][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-04.02.43:861][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-04.02.43:861][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-04.02.43:861][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-04.02.43:861][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-04.02.43:861][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-04.02.43:861][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-04.02.43:861][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-04.02.43:861][731]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-04.02.43:861][731]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-04.02.43:867][731]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-04.02.43:867][731]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-04.02.43:867][731]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-04.02.43:867][731]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-04.02.43:867][731]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-04.02.43:867][731]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-04.02.43:867][731]LogAudioMixer: Display: Channel Order:
+[2020.04.11-04.02.43:867][731]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-04.02.43:867][731]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-04.02.43:958][731]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-04.02.43:960][731]LogInit: FAudioDevice initialized.
+[2020.04.11-04.02.43:971][731]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-04.02.43:972][731]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-21.02.43
+[2020.04.11-04.02.43:972][731]LogWorld: Bringing up level for play took: 0.000795
+[2020.04.11-04.02.43:972][731]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.11-04.02.43:976][731]Cmd: r.TonemapperFilm 0
+[2020.04.11-04.02.43:976][731]r.TonemapperFilm = "0"
+[2020.04.11-04.02.43:976][731]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap -0.346
+[2020.04.11-04.02.43:976][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-04.03.09:357][304]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-04.03.09:358][304]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-04.03.09:358][304]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-04.03.09:358][304]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-04.03.09:359][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-04.03.09:360][304]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.03.09:413][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.04.11-04.03.09:415][304]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-04.03.09:418][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004088s)
+[2020.04.11-04.03.09:419][304]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-04.03.09:419][304]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2020.04.11-04.03.09:419][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005659s)
+[2020.04.11-04.03.09:419][304]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-04.03.09:421][304]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-21.03.09
+[2020.04.11-04.03.09:421][304]LogWorld: Bringing up level for play took: 0.001179
+[2020.04.11-04.03.09:423][304]Cmd: r.TonemapperFilm 0
+[2020.04.11-04.03.09:423][304]r.TonemapperFilm = "0"
+[2020.04.11-04.03.09:423][304]LogLoad: Took 0.066342 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-04.03.12:851][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.03.12:851][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.03.12:852][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-04.03.12:854][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-04.03.12:854][566]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-04.03.12:854][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.03.12:854][566]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-04.03.12:855][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-04.03.12:866][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-04.03.12:866][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-04.03.12:872][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-04.03.12:915][566]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.03.12:920][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-04.03.12:925][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.04.11-04.03.12:943][567]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.11-04.03.14:930][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.11-04.03.15:238][652]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/TutorialMap4A87176B420BCC0ED0F3918B9FEDD673.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Content/SpaceshipBattle/Maps/TutorialMap.umap'
+[2020.04.11-04.03.15:296][652]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.11-04.03.15:296][652]LogContentValidation: Display: Validating World /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap
+[2020.04.11-04.03.15:296][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_BuiltData
+[2020.04.11-04.08.57:697][369]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-04.08.57:725][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-04.08.57:725][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-04.08.57:725][369]PIE: New page: PIE session: TutorialMap (Apr 10, 2020, 2:08:57 PM)
+[2020.04.11-04.08.57:725][369]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-04.08.57:732][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006012s)
+[2020.04.11-04.08.57:733][369]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-04.08.57:734][369]LogPlayLevel: PIE: World Init took: (0.002048s)
+[2020.04.11-04.08.57:734][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.008228s)
+[2020.04.11-04.08.57:783][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.04.11-04.08.57:785][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-04.08.57:785][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-04.08.57:785][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-04.08.57:785][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-04.08.57:785][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-04.08.57:785][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-04.08.57:785][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-04.08.57:785][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-04.08.57:785][369]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-04.08.57:785][369]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-04.08.57:790][369]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-04.08.57:790][369]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.04.11-04.08.57:790][369]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-04.08.57:790][369]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-04.08.57:790][369]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-04.08.57:790][369]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-04.08.57:790][369]LogAudioMixer: Display: Channel Order:
+[2020.04.11-04.08.57:790][369]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-04.08.57:790][369]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-04.08.57:888][369]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.04.11-04.08.57:891][369]LogInit: FAudioDevice initialized.
+[2020.04.11-04.08.57:903][369]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-04.08.57:905][369]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-21.08.57
+[2020.04.11-04.08.57:906][369]LogWorld: Bringing up level for play took: 0.001190
+[2020.04.11-04.08.57:906][369]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.11-04.08.57:910][369]Cmd: r.TonemapperFilm 0
+[2020.04.11-04.08.57:910][369]r.TonemapperFilm = "0"
+[2020.04.11-04.08.57:910][369]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap -0.412
+[2020.04.11-04.08.57:911][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-04.09.18:306][718]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-04.09.18:306][718]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-04.09.18:306][718]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-04.09.18:307][718]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-04.09.18:308][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-04.09.18:309][718]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.09.18:360][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.04.11-04.09.18:360][718]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-04.09.18:365][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004621s)
+[2020.04.11-04.09.18:366][718]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-04.09.18:366][718]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2020.04.11-04.09.18:366][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005823s)
+[2020.04.11-04.09.18:366][718]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-04.09.18:367][718]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-21.09.18
+[2020.04.11-04.09.18:367][718]LogWorld: Bringing up level for play took: 0.000749
+[2020.04.11-04.09.18:369][718]Cmd: r.TonemapperFilm 0
+[2020.04.11-04.09.18:369][718]r.TonemapperFilm = "0"
+[2020.04.11-04.09.18:369][718]LogLoad: Took 0.062555 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-04.09.25:558][190]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-04.09.25:558][190]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2020.04.11-04.09.25:559][190]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-04.09.25:560][190]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-04.09.25:560][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-04.09.25:561][190]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.09.25:621][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.04.11-04.09.25:622][190]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-04.09.25:627][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005724s)
+[2020.04.11-04.09.25:629][190]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.11-04.09.25:629][190]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2020.04.11-04.09.25:629][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007531s)
+[2020.04.11-04.09.25:629][190]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.11-04.09.25:631][190]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.10-21.09.25
+[2020.04.11-04.09.25:631][190]LogWorld: Bringing up level for play took: 0.001178
+[2020.04.11-04.09.25:633][190]Cmd: r.TonemapperFilm 0
+[2020.04.11-04.09.25:633][190]r.TonemapperFilm = "0"
+[2020.04.11-04.09.25:634][190]LogLoad: Took 0.075384 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2020.04.11-04.09.30:373][631]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.09.30:373][631]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.09.30:373][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-04.09.30:374][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-04.09.30:374][631]LogWorld: BeginTearingDown for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2020.04.11-04.09.30:374][631]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.09.30:374][631]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-04.09.30:374][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-04.09.30:387][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-04.09.30:387][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.11-04.09.30:392][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-04.09.30:446][631]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-04.09.30:454][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-04.09.30:461][631]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.04.11-04.09.30:489][632]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.11-04.13.47:753][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.04.11-04.13.47:756][563]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceshipBattle/Maps/TutorialMap' took 0.056
+[2020.04.11-04.13.47:756][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Blueprints/BP_Enemy] ([1] browsable assets)...
+[2020.04.11-04.13.47:790][563]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpaceshipBattle/Blueprints/BP_Enemy.BP_Enemy]
+[2020.04.11-04.13.47:790][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Blueprints/BP_Enemy]
+[2020.04.11-04.13.47:854][563]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/BP_Enemy_Auto501EDED72440A96F42F4CA98FF7E20E8C.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Blueprints/BP_Enemy_Auto5.uasset'
+[2020.04.11-04.13.47:856][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/Blueprints/BP_Player] ([1] browsable assets)...
+[2020.04.11-04.13.47:892][563]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpaceshipBattle/Blueprints/BP_Player.BP_Player]
+[2020.04.11-04.13.47:892][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/Blueprints/BP_Player]
+[2020.04.11-04.13.47:978][563]LogSavePackage: Moving '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/BP_Player_Auto578211DBE43332C37BA80C7917007E58E.tmp' to '../../../../../../Users/steph/Downloads/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/Blueprints/BP_Player_Auto5.uasset'
+[2020.04.11-04.13.47:979][563]LogFileHelpers: Auto-saving content packages took 0.224
